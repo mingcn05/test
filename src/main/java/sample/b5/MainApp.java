@@ -63,7 +63,7 @@ public class MainApp {
     }
 
     public static void main(String[] args) {
-        //server
+        /*Chinh sua tren server github */
         MainApp app = new MainApp();
         app.start();
     }
