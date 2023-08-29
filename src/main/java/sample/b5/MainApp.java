@@ -63,6 +63,7 @@ public class MainApp {
     }
 
     public static void main(String[] args) {
+        //server
         MainApp app = new MainApp();
         app.start();
     }
